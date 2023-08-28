@@ -1,4 +1,4 @@
-class Jess < Formula
+class JessP < Formula
   VERSION = "1"
 
   desc "AI shell assistant for software developers"
